@@ -1,0 +1,26 @@
+# Built application files
+*.apk
+*.aar
+*.aab
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk.dir, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio Navigation editor temp files
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/
+
+# OS and Editor
+*.iml
+.DS_Store
+Thumbs.db
+.kotlin/
